@@ -10,6 +10,7 @@
 ## 🛠 Skills
 
 * C#
+* C++
 * Python
 * AI Tools (ChatGPT, Gemini, Claude, Midjourney, etc.)
 * Video Editing
